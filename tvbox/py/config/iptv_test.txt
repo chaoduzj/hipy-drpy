@@ -1,6 +1,6 @@
 # 未匹配频道报告
 # 以下频道在源中未找到匹配项
-# 生成时间: 2025-11-08 14:16:51
+# 生成时间: 2025-11-08 20:21:07
 
 ## 模板中未匹配的频道（在源中找不到）
 
@@ -10,9 +10,6 @@
 ## 源中未匹配的频道（在模板中找不到）
 
 默认分类,#genre#
-CETV-3,
-山西卫视,
-陕西卫视,
 义乌新闻综合,
 中国蓝新闻,
 数码时代,
@@ -22,7 +19,10 @@ CETV-3,
 余姚新闻综合,
 余姚姚江文化,
 嵊州新闻综合,
+山西卫视,
 足球频道,
+CETV-3,
+陕西卫视,
 
 央视频道,#genre#
 CGTN英语,
@@ -40,16 +40,16 @@ CCTV-央视高网,
 直播中国,
 熊猫直播,
 CETV-3 教育服务,
-支持作者,
 CCTV 4K,
 CCTV 8K,
+支持作者,
 
 卫视频道,#genre#
-内蒙古蒙语卫视,
 山西卫视,
 陕西卫视,
-上海卫视,
 中国教育3台,
+内蒙古蒙语卫视,
+上海卫视,
 内蒙古视,
 北京纪实,
 极速汽车,
@@ -118,7 +118,7 @@ JJ斗地主,
 民视新闻,
 
 🕘️更新时间,#genre#
-2025-11-08 06:24:29,
+2025-11-08 18:25:45,
 
 📺央视频道,#genre#
 CETV-3,
@@ -213,7 +213,6 @@ BRTV国际频道,
 
 ☘️上海频道,#genre#
 上海纪实,
-全纪实,
 新闻综合,
 上海教育,
 崇明电视台,
@@ -372,6 +371,9 @@ BRTV国际频道,
 
 ☘️山东频道,#genre#
 山东文旅,
+青州综合,
+菏泽一套新闻综合,
+菏泽新闻综合,
 
 ☘️安徽频道,#genre#
 安徽导视,
@@ -393,6 +395,7 @@ BRTV国际频道,
 吉林都市,
 吉林生活,
 吉林乡村,
+延边-2,
 长白山电视台,
 德惠综合,
 九台综合,
@@ -527,6 +530,43 @@ CN卡通,
 🏛经典剧场,#genre#
 天龙八部,
 仙剑奇侠传,
+
+港澳台,#genre#
+澳门卫视,
+Pet Club TV,
+Bloomberg TV Asia,
+HKS,
+Celestial Movies,
+TVB News,
+Good,
+Good 2,
+Beautiful Life TV,
+Supreme Master TV,
+Taiwan Plus TV,
+Genius Go Go Go,
+DaAi 1,
+DaAi 2,
+Dali TV,
+EBC YOYO,
+CTi News,
+FTV News,
+Global News,
+SET iNews,
+TTV News,
+mnews,
+ET Mall 60,
+东森财经新闻,
+Momo 1,
+Momo 2,
+信大,
+NU,
+NU2,
+JP1,
+KPop,
+民视新闻HD,
+
+卫视台,#genre#
+陕西卫视,
 
 港澳台外,#genre#
 民视频道,
@@ -854,43 +894,6 @@ AI七宗罪.人工智能三大定律竟有致命漏洞,
 爱真的只是激素吗.当灵魂超脱肉体人类又能否逃离天罚,
 人类永远无法战胜的初代魔王,
 从苏美到波斯.最后的阿努纳奇,
-
-港澳台,#genre#
-澳门卫视,
-Pet Club TV,
-Bloomberg TV Asia,
-HKS,
-Celestial Movies,
-TVB News,
-Good,
-Good 2,
-Beautiful Life TV,
-Supreme Master TV,
-Taiwan Plus TV,
-Genius Go Go Go,
-DaAi 1,
-DaAi 2,
-Dali TV,
-EBC YOYO,
-CTi News,
-FTV News,
-Global News,
-SET iNews,
-TTV News,
-mnews,
-ET Mall 60,
-东森财经新闻,
-Momo 1,
-Momo 2,
-信大,
-NU,
-NU2,
-JP1,
-KPop,
-民视新闻HD,
-
-卫视台,#genre#
-陕西卫视,
 
 央视高清,#genre#
 上海纪实,
@@ -1286,6 +1289,7 @@ NewTV 明星大片,
 宁化电视一套,
 安顺新闻,
 宜阳综合,
+宿松新闻综合,
 山东文旅,
 嵊州新闻综合,
 嵊泗综合,
@@ -1347,7 +1351,6 @@ NewTV 明星大片,
 湖州文化娱乐,
 湖州新闻综合,
 滑县新闻,
-滨海新闻综合,
 潢川综合,
 灵宝新闻综合,
 玛纳斯综合,
@@ -1486,9 +1489,6 @@ MovieSphere,
 The Lego Channel,
 NextUp Live Comedy,
 
-更新时间,#genre#
-2025-11-08 06:24:50,
-
 央卫备用,#genre#
 陕西卫视,
 山西卫视,
@@ -1562,9 +1562,13 @@ viuTV,
 萌宠TV,
 北京4K超清,
 
+更新时间,#genre#
+2025-11-08 18:27:25,
+
 儿童频道,#genre#
 靖洋卡通,
 海绵宝宝,
+蜡笔小新,
 韩国EBS少儿,
 
 纪录频道,#genre#
@@ -1625,6 +1629,7 @@ JJ斗地主,
 八里沟风景区天界山玻璃栈道,
 八里沟风景区桃花湾瀑布,
 六盘山红军长征景区,
+南京玄武湖公园,
 厦门鼓浪屿,
 四川四姑娘山隆珠措,
 四川峨眉山云海日出,
@@ -3678,6 +3683,6 @@ Viaggi – Pluto TV,
 House of Docs – Pluto TV,
 Le vite degli altri – Pluto TV,
 
-# 源中未匹配频道总计: 3323
+# 源中未匹配频道总计: 3328
 
-# 未匹配频道总计: 3323
+# 未匹配频道总计: 3328
