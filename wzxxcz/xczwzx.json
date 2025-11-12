@@ -1555,6 +1555,14 @@
             }
         },
         {
+            "key": "bili",
+            "name": "✒️bili",
+            "type": 3,
+            "playerType": "2",
+            "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+            "ext": "https://tvbox.catvod.com/js/bili.js"
+        },
+        {
             "key": "QD4K",
             "name": "🐷猪猪4K",
             "type": 3,
@@ -28689,6 +28697,14 @@
             }
         },
         {
+            "key": "MGTV",
+            "name": "🍊MGTV",
+            "type": 3,
+            "playerType": "2",
+            "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+            "ext": "https://tvbox.catvod.com/js/mgtv.js"
+        },
+        {
             "key": "量子",
             "name": "⚗量子秒播",
             "type": 1,
@@ -30261,6 +30277,36 @@
             "name": "小橙子解析三",
             "type": 0,
             "url": "https://jx.xmflv.com/?url="
+        },
+        {
+            "name": "小橙子解析二",
+            "type": 0,
+            "url": "https://t1.qlplayer.cyou/player/?url="
+        },
+        {
+            "name": "小橙子解析四",
+            "type": 0,
+            "url": "https://yparse.ik9.cc/index.php?url="
+        },
+        {
+            "name": "小橙子解析五",
+            "type": 0,
+            "url": "https://player.mrgaocloud.com/player/?url="
+        },
+        {
+            "name": "小橙子解析六",
+            "type": 0,
+            "url": "https://jx.yangtu.top/?url="
+        },
+        {
+            "name": "小橙子解析七",
+            "type": 0,
+            "url": "https://www.8090g.cn/jiexi/?url="
+        },
+        {
+            "name": "小橙子解析八",
+            "type": 0,
+            "url": "https://jx.2s0.cn/player/?url="
         },
         {
             "name": "盘古解析",
