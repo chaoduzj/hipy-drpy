@@ -45,6 +45,7 @@ tv_urls = [
     "https://live.freetv.top/douyuyqk.m3u",
     "https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top",
     "https://www.goodiptv.club/bililive.m3u",
+    "https://raw.githubusercontent.com/yihad168/tv/refs/heads/main/tv.m3u",
 ]
 
 def parse_template(template_file):
