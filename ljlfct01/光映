@@ -126,14 +126,14 @@
      {
       "name": "极速",
       "type": 1,
-      "url": "http://103.163.47.120:7777/api/?key=mTjnoJuwkXU55DgDDN&url="
+      "url": "http://gyui9.lingutv.cn/api/index?parsesId=15&appid=10000&videoUrl="
 
     },
 
     {
       "name": "极速❶",
       "type": 1,
-      "url": "http://14.103.129.80:777/api/index?parsesId=2&appid=10000&videoUrl="
+      "url": "http://gyui9.lingutv.cn/api/index?parsesId=5&appid=10000&videoUrl="
     },
     {
       "name": "极速❷",
