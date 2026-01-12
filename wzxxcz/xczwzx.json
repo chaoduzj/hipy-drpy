@@ -13,31 +13,31 @@
         {
             "name": "iptvpro",
             "type": 0,
-            "ua": "okhttp/3.15",
+            "ua": "okhttp/5.3.2",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro"
         },
         {
             "name": "港台大陆频道",
             "type": 0,
-            "ua": "okhttp/3.15",
+            "ua": "okhttp/5.3.2",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆频道"
         },
         {
             "name": "港台大陆频道无18",
             "type": 0,
-            "ua": "okhttp/3.15",
+            "ua": "okhttp/5.3.2",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆频道无18内容"
         },
         {
             "name": "xxx视频资源",
             "type": 0,
-            "ua": "okhttp/3.15",
+            "ua": "okhttp/5.3.2",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx视频资源(免番强)"
         },
         {
             "name": "海角社区博主",
             "type": 0,
-            "ua": "okhttp/3.15",
+            "ua": "okhttp/5.3.2",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/海角社区博主(免番强)"
         },
         {
@@ -4596,6 +4596,18 @@
                 "api": "/api.php/getappapi",
                 "datakey": "1234567890123456",
                 "dataiv": "1234567890123456"
+            }
+        },
+        {
+            "key": "py_木瓜_APP",
+            "name": "🍈木瓜影视",
+            "type": 3,
+            "api": "./py/木瓜.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "host": "http://www.yezitv.top"
             }
         },
         {
