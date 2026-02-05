@@ -863,16 +863,6 @@
             "ext": "http://m51.gotto.top/api.php/v1.vod"
         },
         {
-            "key": "山有木兮",
-            "name": "🏞️山有木兮",
-            "type": 3,
-            "api": "./py/山有木兮.py",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
-        },
-        {
             "key": "鬼片",
             "name": "🥇鬼片影视",
             "type": 3,
@@ -1039,17 +1029,6 @@
             "name": "🦁猎手影院",
             "type": 3,
             "api": "./py/猎手影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "猎手影视1",
-            "name": "🧡猎手PY影视",
-            "type": 3,
-            "api": "https://cdn.jsdmirror.com/gh/wzxxcz/tvbox@main/py/猎手影视.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
