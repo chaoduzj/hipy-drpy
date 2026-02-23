@@ -22,10 +22,16 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
         },
         {
+            "name": "wangziduoqing",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "http://wangziduoqing.com/yuan/zb.txt"
+        },
+        {
             "name": "讴歌",
             "type": 0,
             "ua": "okhttp/5.3.2",
-            "url": "https://xn--dkw0c.v.nxog.top/m/tv/?ou=d4"
+            "url": "https://xn--dkw0c.v.nxog.top/m/tv/?ou=df"
         },
         {
             "name": "咪咕央卫体育",
@@ -152,12 +158,6 @@
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://chuxinya.top/f/QnyjCo/飞扬直播.txt"
-        },
-        {
-            "name": "冰茶",
-            "type": 0,
-            "ua": "okhttp/5.3.2",
-            "url": "https://bc.188766.xyz/?ip=&mima=bingcha1130&huikan=1&json=true"
         },
         {
             "name": "hzxs800274",
@@ -1268,7 +1268,7 @@
             "changeable": 1,
             "api": "./js/fox.js",
             "ext": {
-                "host": "http://host1.sopython.top/host.json"
+                "host": "https://qh.70qh.top"
             }
         },
         {
@@ -1429,6 +1429,22 @@
             "type": 3,
             "api": "csp_Jpys",
             "ext": "https://m.610pkea.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+        },
+        {
+            "key": "金牌Fox",
+            "name": "🏅金牌Fox",
+            "type": 3,
+            "api": "csp_AppNox",
+            "ext": {
+                "url": "https://jp5.ggtvb.cc",
+                "header": {
+                    "content-type": "application/json",
+                    "x-app-signature": "11:05:5B:0E:DD:14:6A:96:38:28:CB:29:7D:5F:04:57:3F:D6:EC:6A:C4:54:4F:4D:44:72:0A:C1:8E:DD:A9:58",
+                    "x-app-package": "cc.xzsc.user",
+                    "x-app-version-code": "12",
+                    "x-app-version-name": "5.2"
+                }
+            }
         },
         {
             "key": "柠檬",
@@ -2262,6 +2278,22 @@
                 "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
                 "dataKey": "dyyztvapiappyyds",
                 "dataIv": "dyyztvapiappyyds"
+            }
+        },
+        {
+            "key": "片喵",
+            "name": "🐈片喵影视",
+            "type": 3,
+            "api": "csp_AppNox",
+            "ext": {
+                "url": "https://svip.2video.cc",
+                "header": {
+                    "content-type": "application/json",
+                    "x-app-signature": "70:DF:B1:2A:AE:C3:E3:73:6E:23:0F:67:B9:3B:C5:63:2D:EA:2A:2C:9E:9D:52:82:1D:3F:3C:3C:B9:10:9E:EE",
+                    "x-app-package": "com.ds.wlss",
+                    "x-app-version-code": "56",
+                    "x-app-version-name": "1.2.6"
+                }
             }
         },
         {
@@ -4798,6 +4830,19 @@
             "api": "csp_XBPQ",
             "jar": "./XBPQ/xcznz.jpg",
             "ext": "./XBPQ/韩剧看看.json"
+        },
+        {
+            "key": "农民",
+            "name": "🧿农民影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./XBPQ/xcznz.jpg",
+            "ext": {
+                "副标题": "小橙子专属",
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "https://vip.wwgz.cn:5200/;;!H"
+            }
         },
         {
             "key": "天空影视",
@@ -11653,6 +11698,14 @@
             "name": "🥇耐看影视",
             "type": 3,
             "api": "./js/耐看.js"
+        },
+        {
+            "key": "久久影视",
+            "name": "🥇久久影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "playerType": 2,
+            "ext": "http://99cms.jj99.icu:8199/api.php/app/"
         },
         {
             "key": "小镇影视",
