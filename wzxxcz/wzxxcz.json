@@ -1431,8 +1431,8 @@
             "ext": "https://m.610pkea.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
         {
-            "key": "金牌Fox",
-            "name": "🏅金牌Fox",
+            "key": "金牌Nox",
+            "name": "🏅金牌Nox",
             "type": 3,
             "api": "csp_AppNox",
             "ext": {
@@ -5051,6 +5051,19 @@
                 "dataIv": "AAdgrdghjfgsABC1",
                 "init": "initV122",
                 "ua": "okhttp/3.10.0"
+            }
+        },
+        {
+            "key": "七壹",
+            "name": "💰七壹影视",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://qiyiys.cc",
+                "dataKey": "45452893929B40D9",
+                "dataIv": "45452893929B40D9"
             }
         },
         {
@@ -36288,7 +36301,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "类型": "短剧"
         },
         {
             "key": "锦鲤短剧",
@@ -36298,7 +36312,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "类型": "短剧"
         },
         {
             "key": "星阁短剧",
@@ -36308,7 +36323,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "类型": "短剧"
         },
         {
             "key": "星芽短剧",
@@ -36318,7 +36334,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "类型": "短剧"
         },
         {
             "key": "河马短剧",
@@ -36339,7 +36356,8 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "类型": "短剧"
         },
         {
             "key": "短剧场短剧",
