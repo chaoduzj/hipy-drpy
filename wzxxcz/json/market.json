@@ -166,12 +166,6 @@
         "version": "1776.2"
       },
       {
-        "name": "LiveTV(央卫港台)",
-        "url": "https://github.dpik.top/https://github.com/wzxxcz/OK-APP/releases/download/OK%E5%BD%B1%E8%A7%86/LiveTV_5.4.5.apk",
-        "icon": "https://xcz.iptv365.org/yysdok.png",
-        "version": "5.4.5"
-      },
-      {
         "name": "星火电视",
         "url": "https://github.dpik.top/https://github.com/wzxxcz/OK-APP/releases/download/OK%E5%BD%B1%E8%A7%86/xhzbv1.0.50.apk",
         "icon": "https://xcz.iptv365.org/yysdok.png",
@@ -194,6 +188,12 @@
         "url": "https://github.dpik.top/https://github.com/wzxxcz/OK-APP/releases/download/OK%E5%BD%B1%E8%A7%86/kwyy_12.0.8.5.12085.-bydm.apk",
         "icon": "https://xcz.iptv365.org/yysdok.png",
         "version": "12.0.8.5"
+      },
+      {
+        "name": "酷我音乐车机版",
+        "url": "https://github.dpik.top/https://github.com/wzxxcz/OK-APP/releases/download/OK%E5%BD%B1%E8%A7%86/kwyycjb.6.3.2.38.apk",
+        "icon": "https://xcz.iptv365.org/yysdok.png",
+        "version": "6.3.2.38"
       },
       {
         "name": "酷我音乐车机版",
@@ -230,6 +230,12 @@
         "url": "https://github.dpik.top/https://github.com/wzxxcz/OK-APP/releases/download/OK%E5%BD%B1%E8%A7%86/flsc.apk",
         "icon": "https://xcz.iptv365.org/yysdok.png",
         "version": "1.1.1"
+      },
+      {
+        "name": "飞蓝市场Pro2.0",
+        "url": "https://github.dpik.top/https://github.com/wzxxcz/OK-APP/releases/download/OK%E5%BD%B1%E8%A7%86/flscPro_2.0.apk",
+        "icon": "https://xcz.iptv365.org/yysdok.png",
+        "version": "2.0.0"
       },
       {
         "name": "当贝市场",
