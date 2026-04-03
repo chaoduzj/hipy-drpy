@@ -426,13 +426,13 @@
   ],
   "parses": [
 
-
-
-    {
-      "name": "4k极速1",
+   {
+      "name": "臻彩4k专线",
       "type": 1,
       "url": "http://119.91.10.69:168/api/index?parsesId=3248&appid=10000&videoUrl="
     }
+
+
  
  
   ],
