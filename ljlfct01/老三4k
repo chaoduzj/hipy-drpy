@@ -106,7 +106,18 @@
       }
     },
 
-
+    {
+      "key": "官方4K专线",
+      "name": "🚀┃小苹果专线",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://gitee.com/zhouyadong7033/box/raw/master/JS/xsxs.jar",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.izhuiju.top/api.php/app/"
+    },
     {
       "key": "ZX",
       "name": "☘️ZX┃4K☘️",
@@ -407,11 +418,7 @@
       "url": "http://154.8.225.238:9991/api/index?parsesId=14&appid=10000&videoUrl="
 
     },
-    {
-      "name": "4k极速1",
-      "type": 1,
-      "url": "http://61.184.23.217:6163/api/index?parsesId=4&appid=10002&videoUrl="
-    },
+
     {
       "name": "4k极速2",
       "type": 1,
