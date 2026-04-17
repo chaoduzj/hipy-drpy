@@ -60,19 +60,8 @@
     }
   ],
   "sites": [
-{
-      "key": "lvdou",
-      "name": "Pan | 来自全能（已停）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "http://183.136.134.152:250/xsxs(1).jar",
-      "playUrl": "json:http://189.1.224.165:8080/video/shenshou?flag=%E6%9C%B1%E9%9B%80&play=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://pgcms.lyyytv.cn/api.php/app/"
-    },
 
+  
     {
       "key": "hipy_js_腾云驾雾[官]",
       "name": "藤藤-（臻彩视界4K）",
@@ -436,13 +425,8 @@
       "type": 1,
       "url": "http://42.121.106.99:166/api/?key=ec03ea4ecf2f9cf761656504f180aec2&url="
 
-    },
-    {
-      "name": "4k极速3",
-      "type": 1,
-      "url": "http://php.xuan666.icu/%E9%AB%98%E5%85%B4/api8.php?url="
-
     }
+ 
 
  
   ],
