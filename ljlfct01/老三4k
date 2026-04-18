@@ -123,7 +123,7 @@
       "key": "ZX",
       "name": "☘️ZX┃4K☘️",
       "type": 4,
-      "api": "http://115.191.55.109:9097/api/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86[%E4%BC%98]?pwd=50721480be241243&filter=true",
+      "api": "http://115.191.55.109:9097/api/%E7%AB%8B%E6%92%AD[%E7%9B%98]?pwd=50721480be241243&filter=true",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -145,6 +145,16 @@
       "api": "csp_HBcms10Dou",
       "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;120e148ffba423c7056197a0d7ca486a",
       "ext": "https://zy.jinchancaiji.com/api.php/provide/vod/from/mgtv/"
+    },
+    {
+      "key": "立播",
+      "name": "☘️立播☘️",
+      "type": 4,
+      "api": "http://115.191.55.109:9097/api/%E7%AB%8B%E6%92%AD[%E7%9B%98]?pwd=50721480be241243",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
     },
     {
       "key": "hipy_js_优酷[官]",
