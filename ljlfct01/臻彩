@@ -83,66 +83,7 @@
       "api": "http://183.136.134.152:250/lib/drpy2.min.js",
       "ext": "http://183.136.134.152:250/lib/mg.js"
     },
-    {
-      "key": "虎斑",
-      "name": "☘️虎斑☘️",
-      "type": 4,
-      "api": "http://115.191.55.109:9097/api/%E8%99%8E%E6%96%91[%E7%9B%98]?pwd=50721480be241243&filter=true",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "多多",
-      "name": "☘️多多☘️",
-      "type": 4,
-      "api": "http://115.191.55.109:9097/api/%E5%A4%9A%E5%A4%9A[%E7%9B%98]?pwd=50721480be241243&filter=true",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "木偶",
-      "name": "☘️木偶☘️",
-      "type": 4,
-      "api": "http://115.191.55.109:9097/api/%E6%9C%A8%E5%81%B6[%E7%9B%98]?pwd=50721480be241243&filter=true",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "立播",
-      "name": "☘️立播☘️",
-      "type": 4,
-      "api": "http://115.191.55.109:9097/api/%E7%AB%8B%E6%92%AD[%E7%9B%98]?pwd=50721480be241243&filter=true",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "欧哥",
-      "name": "☘️欧哥☘️",
-      "type": 4,
-      "api": "http://115.191.55.109:9097/api/%E6%AC%A7%E5%93%A5[%E7%9B%98]?pwd=50721480be241243&filter=true",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "至臻",
-      "name": "☘️至臻☘️",
-      "type": 4,
-      "api": "http://115.191.55.109:9097/api/%E8%87%B3%E8%87%BB[%E7%9B%98]?pwd=50721480be241243&filter=true",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
+
     {
       "key": "JD",
       "name": "热播4K网盘",
@@ -475,22 +416,15 @@
     {
       "name": "4k极速",
       "type": 1,
-      "url": "http://125.208.22.184:6019/api/index?parsesId=550266&appid=10000&videoUrl="
-
+      "url": "http://210.16.170.113:8845/api/index?parsesId=4&appid=10000&videoUrl="
     },
     {
       "name": "4k极速1",
       "type": 1,
       "url": "http://61.184.23.217:6163/api/index?parsesId=4&appid=10002&videoUrl="
-
-    },
-
-    {
-      "name": "4k极速2",
-      "type": 1,
-      "url": "http://42.121.106.99:166/api/?key=ec03ea4ecf2f9cf761656504f180aec2&url="
-
     }
+
+
  
 
  
